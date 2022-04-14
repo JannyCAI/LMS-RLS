@@ -1,2 +1,2 @@
-# LMS-RLS
-**matlab的LMS和RLS算法程序
+# LMS&RLS
+**matlab的LMS和RLS算法程序**
